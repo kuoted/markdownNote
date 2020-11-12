@@ -1,66 +1,64 @@
 PRINCIPLES AN ONLINE SERIES BY RAY DALIO
-# THE CHANGING WORLD ORDER
-WHERE WE ARE AND WHERE WE'RE GOING
+# The Changing World Order
+<center>WHERE WE ARE AND WHERE WE'RE GOING</center>
 
 A new study on the rises and declines of past leading empires that puts today’s economic, political, and policy situation into perspective of the big picture. Book version to be released this fall; read excerpts below now.
 
-Read Online https://www.principles.com/the-changing-world-order/
-
-PRE ORDER ON Amazon
+[Read Online]( https://www.principles.com/the-changing-world-order/)
 
 [toc]
 
-For a quick audio summary about The Changing World Order, listen to the interview Ray did with Marketplace podcast by NPR. LISTEN NOW https://www.marketplace.org/shows/marketplace-morning-report/capitalism-economy-ray-dalio-bridgewater-trump-twitter-executive-order-social-media/
+For a quick audio summary about The Changing World Order, listen to the interview Ray did with Marketplace podcast by NPR. [LISTEN NOW](https://www.marketplace.org/shows/marketplace-morning-report/capitalism-economy-ray-dalio-bridgewater-trump-twitter-executive-order-social-media/)
 
-Chapter 7 Intro
-The Positions the Americans and Chinese Are In
-The Trade/Economic War
-The Technology War
-The Geopolitical War
-The Capital War
-The Military War
-The Culture War
-The War with Ourselves: The Enemy Is Us
-Appendix: Charts Showing the Relative Powers
+# H1
+
+## H2
+
+### H3
+
+#### H4
+
+##### H5
+
+###### H6
+
+<div style="page-break-after: always;"></div>
 
 ## Introduction
-Published 03/29/20
+<center>Published 03/29/20</center>
 
-<font size=4>
+
 <div  style="text-align:justify; text-justify:inter-ideograph;">
 I believe that the times ahead will be radically different from the times we have experienced so far in our lifetimes, though similar to many other times in history.
 
 I believe this because about 18 months ago I undertook a study of the rises and declines of empires, their reserve currencies, and their markets, prompted by my seeing a number of unusual developments that hadn’t happened before in my lifetime but that I knew had occurred numerous times in history. Most importantly, I was seeing the confluence of 
 
-1) high levels of indebtedness and extremely low interest rates, which limits central banks’ powers to stimulate the economy, 
-2) large wealth gaps and political divisions within countries, which leads to increased social and political conflicts, and 
-3) a rising world power (China) challenging the overextended existing world power (the US), which causes external conflict. The most recent analogous time was the period from 1930 to 1945. This was very concerning to me.
+​	1) high levels of indebtedness and extremely low interest rates, which limits central banks’ powers to stimulate the economy, 
+​	2) large wealth gaps and political divisions within countries, which leads to increased social and political conflicts, and 
+​	3) a rising world power (China) challenging the overextended existing world power (the US), which causes external conflict. The most recent analogous time was the period from 1930 to 1945. This was very concerning to me.
 
 As I studied history, I saw that this confluence of events was typical of periods that existed as roughly 10- to 20-year transition phases between big economic and political cycles that occurred over many years (e.g., 50-100 years). These big cycles were comprised of swings between 
 
-1) happy and prosperous periods in which wealth is pursued and created productively and those with power work harmoniously to facilitate this and 
-2) miserable, depressing periods in which there are fights over wealth and power that disrupt harmony and productivity and sometimes lead to revolutions/wars. These bad periods were like cleansing storms that got rid of weaknesses and excesses, such as too much debt, and returned the fundamentals to a sounder footing, albeit painfully. They eventually caused adaptations that made the whole stronger, though they typically changed who was on top and the prevailing world order.
+​	1) happy and prosperous periods in which wealth is pursued and created productively and those with power work harmoniously to facilitate this and 
+​	2) miserable, depressing periods in which there are fights over wealth and power that disrupt harmony and productivity and sometimes lead to revolutions/wars. These bad periods were like cleansing storms that got rid of weaknesses and excesses, such as too much debt, and returned the fundamentals to a sounder footing, albeit painfully. They eventually caused adaptations that made the whole stronger, though they typically changed who was on top and the prevailing world order.
 
 The answers to this question can only be found by studying the mechanics behind similar cases in history—the 1930-45 period but also the rise and fall of the British and Dutch empires, the rise and fall of Chinese dynasties, and others—to unlock an understanding of what is happening and what is likely to happen.[1] That was the purpose of this study. Then the pandemic came along, which was another one of those big events that never happened to me but happened many times before my lifetime that I needed to understand better.
 
-</font> 
+ 
 
 ### My Approach
-<div  style="text-align:justify; text-justify:inter-ideograph;">
-<font size=4>
-
 While it might seem odd that an investment manager who is required to make investment decisions on short time frames would pay so much attention to long-term history, through my experiences I have learned that I need this perspective to do my job well. My biggest mistakes in my career came from missing big market moves that hadn’t happened in my lifetime but had happened many times before. These mistakes taught me that I needed to understand how economies and markets have worked throughout history and in faraway places so that I could learn the timeless and universal mechanics underlying them and develop timeless and universal principles for dealing with them well.
 
 The first of these big surprises for me came in 1971 when I was 22 years old and clerking on the floor of the New York Stock Exchange as a summer job. On a Sunday night, August 15, 1971, President Nixon announced that the US would renege on its promise to allow paper dollars to be turned in for gold. This led the dollar to plummet. As I listened to Nixon speak, I realized that the US government had defaulted on a promise and that money as we knew it had ceased to exist. That couldn’t be good, I thought. So on Monday morning I walked onto the floor of the exchange expecting pandemonium as stocks took a dive. There was pandemonium all right, but not the sort I expected. Instead of falling, the stock market jumped about 4 percent. I was shocked. That is because I hadn’t experienced a currency devaluation before. In the days that followed, I dug into history and saw that there were many cases of currency devaluations that had similar effects on stock markets. By studying further, I figured out why, and I learned something valuable that would help me many times in my future. It took a few more of those painful surprises to beat into my head the realization that I needed to understand all the big economic and market moves that had happened in the last 100+ years and in all major countries.
 
-In other words, if some big and important event had happened in the past (like the Great Depression of the 1930s), I couldn’t say for sure that it wouldn’t happen to me, so I had to figure out how it worked and be prepared to deal with it well. Through my research I saw that there were many cases of the same type of thing happening (e.g., depressions) and that by studying them just like a doctor studies many cases of a particular type of disease, I could gain a deeper understanding of how they work. The way I work is to study as many of the important cases of a particular thing I can find and then to form a picture of a typical one, which I call an **==archetype==**. The archetype helps me see the cause-effect relationships that drive how these cases typically progress. Then I compare how the specific cases transpire relative to the archetypical one to understand what causes the differences between each case and the archetype. This process helps me refine my understanding of the cause-effect relationships to the point where I can create decision-making rules in the form of “if/then” statements—i.e., if X happens, then make Y bet. Then I watch actual events transpire relative to that template and what we are expecting. I do these things in a very systematic way with my partners at Bridgewater Associates.[1a] If events are on track we continue to bet on what typically comes next, and if events start to deviate we try to understand why and course correct.
+In other words, if some big and important event had happened in the past (like the Great Depression of the 1930s), I couldn’t say for sure that it wouldn’t happen to me, so I had to figure out how it worked and be prepared to deal with it well. Through my research I saw that there were many cases of the same type of thing happening (e.g., depressions) and that by studying them just like a doctor studies many cases of a particular type of disease, I could gain a deeper understanding of how they work. The way I work is to study as many of the important cases of a particular thing I can find and then to form a picture of a typical one, which I call an **archetype**. The archetype helps me see the cause-effect relationships that drive how these cases typically progress. Then I compare how the specific cases transpire relative to the archetypical one to understand what causes the differences between each case and the archetype. This process helps me refine my understanding of the cause-effect relationships to the point where I can create decision-making rules in the form of “if/then” statements—i.e., if X happens, then make Y bet. Then I watch actual events transpire relative to that template and what we are expecting. I do these things in a very systematic way with my partners at Bridgewater Associates.[1a] If events are on track we continue to bet on what typically comes next, and if events start to deviate we try to understand why and course correct.
 
 My approach is not an academic one created for scholarly purposes; it is a very practical one that I follow in order to do my job well. You see, as a global macro investor, the game I play requires me to understand what is likely to happen to economies better than the competition does. <strong>From my years of wrestling with the markets and trying to come up with principles for doing it well, I’ve learned that 1) one’s ability to anticipate and deal well with the future depends on one’s understanding of the cause-effect relationships that make things change and 2) one’s ability to understand these cause-effect relationships comes from studying how they have played out in the past.</strong>  How practical this approach has been can be measured in Bridgewater’s performance track record over several decades. 
 
-</font>
+
 
 ### This Approach Affects How I See Everything
-<font size=4>
+
 
 Having done many such studies in pursuit of timeless and universal principles, I’ve learned that most things—e.g., prosperous periods, depressions, wars, revolutions, bull markets, bear markets, etc.—happen repeatedly through time. They come about for basically the same reasons, typically in cycles, and often in cycles that are as long or longer than our lifetimes. This has helped me come to see most everything as “another one of those,” just like a biologist, upon encountering a creature in the wild, would identify what species (or “one of those”) the creature belongs to, think about how that species of thing works, and try to have and use timeless and universal principles for dealing with it effectively.
 
@@ -71,10 +69,8 @@ For example, over time our living standards rise because we learn more, which le
 I believe that the reason people typically miss the big moments of evolution coming at them in life is that we each experience only tiny pieces of what’s happening. We are like ants preoccupied with our jobs of carrying crumbs in our minuscule lifetimes instead of having a broader perspective of the big-picture patterns and cycles, the important interrelated things driving them, and where we are within the cycles and what’s likely to transpire. From gaining this perspective, I’ve come to believe that there are only a limited number of personality types going down a limited number of paths that lead them to encounter a limited number of situations to produce only a limited number of stories that repeat over time.[3]
 
 The only things that change are the clothes the characters are wearing and the technologies they’re using.
-</font>
-### This Study & How I Came to Do It
-<font size=4>
 
+### This Study & How I Came to Do It
 One study lead to another that led me to do this study. More specifically:
 
 - Studying money and credit cycles throughout history made me aware of the long-term debt cycle (which typically lasts about 50-100 years), which led me to view what is happening now in a very different way than if I hadn’t gained that perspective. For example, before interest rates hit 0% and central banks printed money and bought financial assets in response to the 2008-09 financial crisis, I had studied that happening in the 1930s, which helped us navigate that crisis well. From that research, I also saw how and why these central bank actions pushed financial asset prices and the economy up, which widened the wealth gap and led to an era of populism and conflict. We are now seeing the same forces at play in the post-2009 period.
@@ -88,13 +84,12 @@ By the way you can read these studies for free at [www.economicprinciples.org.](
 
 So, what you are now reading came about because of my need to understand important things that are now happening that hadn’t happened in my lifetime but have happened many times before that. These things are the result of three big forces and the questions they prompt.
 
-</font>
 
-<blockquote>
+
+
+
 
 #### 1) THE LONG-TERM MONEY AND DEBT CYCLE
-
-<font size=4>
 
 At no point in our lifetimes have interest rates been so low or negative on so much debt as they are today. At the start of 2020, more than $10 trillion of debt was at negative interest rates and an unusually large amount of additional new debt will soon need to be sold to finance deficits. This is happening at the same time as huge pension and healthcare obligations are coming due. These circumstances raised some interesting questions for me. Naturally I wondered why anyone would want to hold debt yielding a negative interest rate and how much lower interest rates can be pushed. I also wondered what will happen to economies and markets when they can’t be pushed lower and how central banks could be stimulative when the next downturn inevitably came. Would central banks print a lot more currency, causing its value to go down? What would happen if the currency that the debt is denominated in goes down while interest rates are so low? These questions led me to ask what central banks will do if investors flee debt denominated in the world’s reserve currencies (i.e., the dollar, the euro, and the yen), which would be expected if the money that they are being paid back in is both depreciating in value and paying interest rates that are so low.
 
@@ -103,26 +98,24 @@ In case you don’t know, a reserve currency is a currency that is accepted arou
 在我们的一生中，利率从来没有像今天这样低，或者如此之低的负值。在2020年初，有超过10万亿美元的债务处于负利率，而且很快就需要出售大量额外的新债务来为赤字融资。与此同时，巨额养老金和医疗保健债务即将到期。这些情况给我提出了一些有趣的问题。自然，我想知道为什么会有人想持有负利率的债务，利率还能再低多少。我还想知道，当经济和市场无法被压低时，它们将会发生什么?当下一次衰退不可避免地到来时，央行将如何起到刺激作用? 中央银行会印刷更多的货币，导致其价值下降吗? 如果债务以货币计价，而利率如此之低，会发生什么? 这些问题让我问央行将做什么如果投资者逃离在世界储备货币计价的债务(即美元、欧元和日元),这将是预期如果他们被偿还的钱在贬值的价值和支付利率如此之低。 
 
 如果你不知道的话，我告诉你，储备货币是指世界各地都接受的用于交易和储蓄的货币。被打印的国家世界主要货币(现在美国)是非常荣幸和强大的位置,和债务,以世界储备货币(即美元计价债务)是最基本构建块世界资本市场和世界经济。过去所有的储备货币都已不再是储备货币，这往往给享有这一特权的国家带来痛苦的结局。因此，我也开始思考美元作为世界主要储备货币的地位是否、何时以及为何会下降，以及这将如何改变我们所知道的世界。
-</font>
+
+
+
 
 #### 2) THE DOMESTIC WEALTH AND POWER CYCLE
 
-<font size=4>
+
 
 Wealth, values, and political gaps are now larger than at any other time during my lifetime. By studying the 1930s and other prior eras when polarity was also high, I’ve learned that which side wins out (i.e., left or right) will have very big impacts on economies and markets. So naturally I wondered what these gaps will lead to in our time. My examinations of history have taught me that, as a principle, when wealth and values gaps are large and there is an economic downturn, it is likely that there will be lot of conflict about how to divide the pie. How will people and policy makers be with each other when the next economic downturn arrives? I am especially concerned because of the previously mentioned limitations on central banks’ abilities to cut interest adequately to stimulate the economy. In addition to these traditional tools being ineffective, printing money and buying financial assets (now called “quantitative easing”) also widen the wealth gap because buying financial assets pushes up their prices, which benefits the wealthy who hold more financial assets than the poor.
 
-</font>
+
 
 #### 3) THE INTERNATIONAL WEALTH AND POWER CYCLE
 
-<font size=4>
 
-For the first time in my lifetime, the United States is encountering a rival power. China has become a competitive power to the United States in a number of ways and is growing at a faster rate than the US. If trends continue, it will be stronger than the United States in most of the most important ways that an empire becomes dominant. (Or at the very least, it will become a worthy competitor.) I have seen both countries up close for most of my life, and I now see how conflict is increasing fast, especially in the areas of trade, technology, geopolitics, capital, and economic/political/social ideologies. I can’t help but wonder how these conflicts, and the changes in the world order that will result from them, will transpire in the years ahead and what effects that will have on us all.
 
-</font>
+For the first time in my lifetime, the United States is encountering a rival power. China has become a competitive power to the United States in a number of ways and is growing at a faster rate than the US. If trends continue, it will be stronger than the United States in most of the most important ways that an empire becomes dominant. (Or at the very least, it will become a worthy competitor.) I have seen both countries up close for most of my life, and I now see how conflict is increasing fast, especially in the areas of trade, technology, geopolitics, capital, and economic/political/social ideologies. I can’t help but wonder how these conflicts, and the changes in the world order that will result from them, will transpire in the years ahead and what effects that will have on us all. </strong>
 
-</blockquote>
-<font size=4>
 
 The confluence of these three factors piques my curiosity and most draws my attention to similar periods such as the 1930-45 period and numerous others before that. More specifically, in 2008-09 like in 1929-32, there were serious debt and economic crises. In both cases, interest rates hit 0% which limited central banks’ ability to use interest rate cuts to stimulate the economy, so, in both cases, central banks printed a lot of money to buy financial assets which, in both cases, caused financial asset prices to rise and widened the wealth gap. In both periods, wide wealth and income gaps led to a high level of political polarization that took the form of greater populism and battles between ardent socialist-led populists of the left and ardent capitalist-led populists of the right. These domestic conflicts stewed while emerging powers (Germany and Japan in the 1930s) increasingly challenged the existing world power. And finally, just like today, the confluence of these factors meant that it was impossible to understand any one of them without also understanding the overlapping influences among them.
 
@@ -148,7 +141,7 @@ Part 2 shows all the individual cases in greater depth, sharing the same indices
 
 Frankly, I don’t know how I’d be able to navigate what is happening now and what will be coming at us without having studied all this history. But before we get into these fascinating individual cases, let’s delve into the archetypical case.
 
-</font>
+
 
 #### IMPORTANT DISCLOSURES
 Information contained herein is only current as of the printing date and is intended only to provide the observations and views of Bridgewater Associates, L.P. (“Bridgewater”) as of the date of writing unless otherwise indicated. Bridgewater has no obligation to provide recipients hereof with updates or changes to the information contained herein. Performance and markets may be higher or lower than what is shown herein and the information, assumptions and analysis that may be time sensitive in nature may have changed materially and may no longer represent the views of Bridgewater. Statements containing forward-looking views or expectations (or comparable language) are subject to a number of risks and uncertainties and are informational in nature. Actual performance could, and may have, differed materially from the information presented herein. Past performance is not indicative of future results.
@@ -168,7 +161,7 @@ This information is not directed at or intended for distribution to or use by an
 No part of this material may be (i) copied, photocopied or duplicated in any form by any means or (ii) redistributed without the prior written consent of Bridgewater ® Associates, LP.
 
 ©2020 Bridgewater Associates, LP. All rights reserved
-</font> 
+
 <font size=3>
 
 [1] To be clear, while I am describing these cycles of the past, I’m not one of those people who believe that what happened in the past will necessarily continue into the future without understanding the cause-effect mechanics that drive changes. My objective above all else is to have you join with me in looking at the cause-effect relationships and then to use that understanding to explore what might be coming at us and agree on principles to handle it in the best possible way.
@@ -179,15 +172,23 @@ No part of this material may be (i) copied, photocopied or duplicated in any for
 
 [3] In my book Principles: Life and Work, I shared my thinking about these different ways of thinking. I won’t describe them here but will direct you there should you be interested.
 
+<div style="page-break-after: always;"></div>
+
 ## Chapter 1 The Big Cycles in a Tiny Nutshell
-Published 03/29/20
-<font size=4>
+
+<center>Published 03/29/20 </center>
 
 As explained in the Introduction, the world order is now rapidly shifting in important ways that have never happened in our lifetimes but have happened many times before in history. My objective is to show you those cases and the mechanics that drove them and, with that perspective, attempt to imagine the future.
 
+
+
 What follows here is an ultra-distilled description of the dynamics that I saw in studying the rises and declines of the last three reserve currency empires (the Dutch, the British, and the American) and the six other significant empires (Germany, France, Russia, India, Japan, and China) over the last 500 years, as well as all of the major Chinese dynasties back to the Tang Dynasty around the year 600. The purpose of this chapter is simply to provide an archetype to use when looking at all the cycles, most importantly the one that we are now in. In studying these past cases, I saw clear patterns that occurred for logical reasons that I briefly summarize here and cover more completely in subsequent chapters of Part 1. While the focus of this chapter and this book are on those forces that affected the big cyclical swings in wealth and power, I also saw ripple-effect patterns in all dimensions of life including culture and the arts, social mores, and more, which I will touch on in Part 2. By going back and forth between this simple archetype and the cases shown in Part 2, we will see how the individual cases fit the archetype (which is essentially just the average of those cases) and how well the archetype describes the individual cases. Doing this, I hope, will help us better understand what is happening now.
 
+
+
 I’m on a mission to figure out how the world works and to gain timeless and universal principles for dealing with it well. It’s both a passion and a necessity for me. While the curiosities and concerns that I described earlier pulled me into doing this study, the process of conducting it gave me a much greater understanding of the really big picture on how the world works than I expected to get, and I want to share it with you. It made much clearer to me how peoples and countries succeed and fail over long swaths of time, it revealed giant cycles behind these ups and downs that I never knew existed, and, most importantly, it helped me put into perspective where we now are.
+
+
 
 Though the big-picture synthesis that I’m sharing in this chapter is my own, you should know that the theories I express in this book have been well-triangulated with other experts. About two years ago, when I felt that I needed to answer the questions I described in the Introduction, I decided to immerse myself in research with my research team, digging through archives, speaking with the world’s best scholars and practitioners who each had in-depth understandings of bits and pieces of the puzzle, reading relevant great books by insightful authors, and reflecting on the prior research I’ve done and the experiences that I have from investing globally for nearly 50 years.
 
@@ -195,7 +196,8 @@ Because I view this as an audacious, humbling, necessary, and fascinating undert
 
 I’m passing it along to you to take or leave as you like.
 
-The Countries Shown in This Study Had the Most Wealth and Power
+### The Countries Shown in This Study Had the Most Wealth and Power
+
 This is a study of how wealth and power have come and gone in the leading powers of the world. To be clear, while the leading powers covered in this study were the richest and most powerful, they weren’t necessarily the best-off countries for two reasons. First, while wealth and power are what most people want and will fight over most, some people and their countries don’t think that these things are the most important and wouldn’t think of fighting over them. For example, some believe that having peace and savoring life are more important than having a lot of wealth and power and wouldn’t think of fighting hard enough to gain enough of the wealth and power to make it into the group included in this study. (By the way, I think there is a lot to be said for putting peace and savoring life ahead of gaining wealth and power.) Second, this group of countries excludes what I will call the “boutique countries” (like Switzerland and Singapore) that score very high in wealth and living standards but aren’t large enough to become one of the biggest empires.
 
 Throughout History Wealth Was Gained by Either Making It, Taking It from Others, or Finding It in the Ground
@@ -333,6 +335,8 @@ I will try to pass along pieces of this study to you about once a week until we 
 [1] These indices were made up of a number of different statistics, some of which were directly comparable and some of which were broadly analogous or broadly indicative. In some cases, a data series that stopped at a certain point had to be spliced with a series that continued back in time. Additionally, the lines shown on the chart are 30-year moving averages of these indices, shifted so that there is no lag. I chose to use the smoothed series because the volatility of the unsmoothed series was too great to allow one to see the big movements. Going forward, I will use these very smoothed versions when looking at the very long term and much less smoothed or unsmoothed versions when looking at these developments up close, because the most important developments were best captured this way.
 
 [2] We show where key indicators were relative to their history by averaging them across the cases. The chart is shown such that a value of “1” represents the peak in that indicator relative to history and “0” represents the trough. The timeline is shown in years with “0” representing roughly when the country was at its peak (i.e., when the average across gauges was at its peak). In the rest of this section, we walk through each of the stages of the archetype in more detail. While the charts show the countries that produced global reserve currencies, we’ll also heavily reference China, which was a dominant empire for centuries, though it never established a reserve currency.
+
+<div style="page-break-after: always;"></div>
 
 ## Chapter 2 The Big Cycle of Money, Credit, Debt, and Economic Activity
 Published 04/23/20
@@ -547,6 +551,8 @@ The views expressed herein are solely those of Bridgewater as of the date of thi
 
 [3] Some central banks have made this harder by separating themselves from the direct control of politicians, but virtually every central bank has to bail out their governments at some point, so devaluations always happen.
 
+<div style="page-break-after: always;"></div>
+
 ## Chapter 3 The Changing Value of Money
 
 Published 05/07/20
@@ -592,7 +598,7 @@ The chart below shows spot currency returns of the three major reserve currencie
 
 As shown in the next two charts, devaluations typically occur as relatively abrupt declines during debt crises that are separated by periods of currency stability during periods of prosperity. I noted six such ones, which we will soon delve into. Of course there were many more devaluations of more minor currencies that we won’t get into right now.
 
- 
+
 Here are some notable takeaways:
 
 Big devaluations have tended to be more episodic than evolutionary. There were six time frames that there were really big devaluations of major currencies (though plenty more of minor currencies) over the last 170 years.
@@ -660,6 +666,8 @@ Bridgewater Daily Observations is prepared by and is the property of Bridgewater
 Bridgewater research utilizes data and information from public, private and internal sources, including data from actual Bridgewater trades. Sources include the Australian Bureau of Statistics, Bloomberg Finance L.P., Capital Economics, CBRE, Inc., CEIC Data Company Ltd., Consensus Economics Inc., Corelogic, Inc., CoStar Realty Information, Inc., CreditSights, Inc., Dealogic LLC, DTCC Data Repository (U.S.), LLC, Ecoanalitica, EPFR Global, Eurasia Group Ltd., European Money Markets Institute – EMMI, Evercore ISI, Factset Research Systems, Inc., The Financial Times Limited, GaveKal Research Ltd., Global Financial Data, Inc., Haver Analytics, Inc., ICE Data Derivatives, IHSMarkit, The Investment Funds Institute of Canada, International Energy Agency, Lombard Street Research, Mergent, Inc., Metals Focus Ltd, Moody’s Analytics, Inc., MSCI, Inc., National Bureau of Economic Research, Organisation for Economic Cooperation and Development, Pensions & Investments Research Center, Renwood Realtytrac, LLC, Rystad Energy, Inc., S&P Global Market Intelligence Inc., Sentix Gmbh, Spears & Associates, Inc., State Street Bank and Trust Company, Sun Hung Kai Financial (UK), Refinitiv, Totem Macro, United Nations, US Department of Commerce, Wind Information (Shanghai) Co Ltd, Wood Mackenzie Limited, World Bureau of Metal Statistics, and World Economic Forum. While we consider information from external sources to be reliable, we do not assume responsibility for its accuracy.
 
 The views expressed herein are solely those of Bridgewater as of the date of this report and are subject to change without notice. Bridgewater may have a significant financial interest in one or more of the positions and/or securities or derivatives discussed. Those responsible for preparing this report receive compensation based upon various factors, including, among other things, the quality of their work and firm revenues.
+
+<div style="page-break-after: always;"></div>
 
 ## Chapter 4 The Big Cycles of the Dutch and British Empires and Their Currencies
 
@@ -976,6 +984,8 @@ Bridgewater research utilizes data and information from public, private and inte
 
 The views expressed herein are solely those of Bridgewater as of the date of this report and are subject to change without notice. Bridgewater may have a significant financial interest in one or more of the positions and/or securities or derivatives discussed. Those responsible for preparing this report receive compensation based upon various factors, including, among other things, the quality of their work and firm revenues.
 
+<div style="page-break-after: always;"></div>
+
 ## Chapter 5 The Big Cycles of the United States and the Dollar, Part 1
 
 Published 07/17/20
@@ -1125,7 +1135,7 @@ World War II was an extremely costly war in lives and money. The numbers are gig
 
 In Part 2 of this chapter, we will explore the new world order starting with the US as the dominant power and tell the story that brings us right up to this moment. Then we will turn to China.
 
- 
+
 Appendix I: Some Historical Cases of Capital Wars
 
 Appendix II: Cases of Market Closures in the World Wars
@@ -1139,6 +1149,8 @@ Bridgewater Daily Observations is prepared by and is the property of Bridgewater
 Bridgewater research utilizes data and information from public, private and internal sources, including data from actual Bridgewater trades. Sources include the Australian Bureau of Statistics, Bloomberg Finance L.P., Capital Economics, CBRE, Inc., CEIC Data Company Ltd., Consensus Economics Inc., Corelogic, Inc., CoStar Realty Information, Inc., CreditSights, Inc., Dealogic LLC, DTCC Data Repository (U.S.), LLC, Ecoanalitica, EPFR Global, Eurasia Group Ltd., European Money Markets Institute – EMMI, Evercore ISI, Factset Research Systems, Inc., The Financial Times Limited, GaveKal Research Ltd., Global Financial Data, Inc., Haver Analytics, Inc., ICE Data Derivatives, IHSMarkit, The Investment Funds Institute of Canada, International Energy Agency, Lombard Street Research, Mergent, Inc., Metals Focus Ltd, Moody’s Analytics, Inc., MSCI, Inc., National Bureau of Economic Research, Organisation for Economic Cooperation and Development, Pensions & Investments Research Center, Renwood Realtytrac, LLC, Rystad Energy, Inc., S&P Global Market Intelligence Inc., Sentix Gmbh, Spears & Associates, Inc., State Street Bank and Trust Company, Sun Hung Kai Financial (UK), Refinitiv, Totem Macro, United Nations, US Department of Commerce, Wind Information (Shanghai) Co Ltd, Wood Mackenzie Limited, World Bureau of Metal Statistics, and World Economic Forum. While we consider information from external sources to be reliable, we do not assume responsibility for its accuracy.
 
 The views expressed herein are solely those of Bridgewater as of the date of this report and are subject to change without notice. Bridgewater may have a significant financial interest in one or more of the positions and/or securities or derivatives discussed. Those responsible for preparing this report receive compensation based upon various factors, including, among other things, the quality of their work and firm revenues.
+
+<div style="page-break-after: always;"></div>
 
 ## Chapter 5 The Big Cycles of the United States and the Dollar, Part 2
 
@@ -1274,7 +1286,7 @@ At the same time, as the US dominance and relative wealth decline and rivalries 
 
 Then, in March 2020 after the coronavirus pandemic came along and with it the isolation it necessitated, incomes, employment, and economic activity plunged, the US central government took on a lot of debt to give people and companies a lot of money, and the Federal Reserve printed a lot of money and bought a lot of debt. So did other central banks. As a reflection of this the charts below show the unemployment rates and central bank balance sheets of major countries for as far back as data is available. As shown, all the levels of central bank printing of money and buying of financial assets are near or beyond the previous record amounts in the war years.
 
- 
+
 As history has shown and as explained in the appendix to Chapter 2, “The Changing Value of Money,” when there is a great increase in money and credit, it drives down the value of money and credit, which drives up the value of other investment assets—much like Nixon’s August 1971 move, which led me to realize that it was the same as Roosevelt’s March 1933 move, which was like Volcker’s August 1982 move, which was like Ben Bernanke’s November 2008 move, which was like Mario Draghi’s July 2012 move, and has become standard operating procedure by central banks that will persist until that approach no longer works.
 
 That brings us up to now.
@@ -1353,9 +1365,11 @@ Bridgewater research utilizes data and information from public, private and inte
 
 The views expressed herein are solely those of Bridgewater as of the date of this report and are subject to change without notice. Bridgewater may have a significant financial interest in one or more of the positions and/or securities or derivatives discussed. Those responsible for preparing this report receive compensation based upon various factors, including, among other things, the quality of their work and firm revenues.
 
+<div style="page-break-after: always;"></div>
+
 ## Chapter 6 The Big Cycles of China and Its Currency
 
-Published 09/14/20
+<center>Published 09/14/20</center>
 
 ### Preface
 Several people told me that it is risky for me to write this chapter because the US is in a type of war with China and emotions are running high, so many Americans will be angry at me when I say complimentary things about China, many Chinese will be angry at me when I say critical things about China, many people on both sides who disagree with something I say will be angry at me for saying it, and many in the media will distort what I say. However I can’t not speak openly out of fear of reprisals because the US-China relationship is too important and too controversial to be left untouched by people who know both of these countries well, and for me not to speak honestly about this situation would cost me my self-respect.
@@ -1675,10 +1689,15 @@ Bridgewater research utilizes data and information from public, private and inte
 
 The views expressed herein are solely those of Bridgewater as of the date of this report and are subject to change without notice. Bridgewater may have a significant financial interest in one or more of the positions and/or securities or derivatives discussed. Those responsible for preparing this report receive compensation based upon various factors, including, among other things, the quality of their work and firm revenues.
 
+<div style="page-break-after: always;"></div>
+
 ## Chapter 7 US-China Relations and Wars
 
 Published 09/25/20
-Preface: In this chapter I will be looking at the positions that the US and China now find themselves in and what being in these positions means for US-China relations. Because the US and China are now rival powers in a number of domains, they are in “conflicts” or “wars” in these domains, so we will be looking at where these stand. Because for the most part what we will be looking at are just new versions of old and classic conflicts (e.g., new technologies in a classic technology war, new weapons in a classic military war, etc.), we will be looking at them in the context of what has happened repeatedly in history and with the timeless and universal principles we learned from studying these cases. While I will be looking at the range of possibilities that one might consider, I will be doing that without getting into what the future might look like. I will do that in “The Future,” the concluding chapter of this book. In this chapter I will also be moving a bit more from just conveying facts to sharing opinions (i.e., sharing my uncertain conjectures).
+
+### Preface: 
+
+In this chapter I will be looking at the positions that the US and China now find themselves in and what being in these positions means for US-China relations. Because the US and China are now rival powers in a number of domains, they are in “conflicts” or “wars” in these domains, so we will be looking at where these stand. Because for the most part what we will be looking at are just new versions of old and classic conflicts (e.g., new technologies in a classic technology war, new weapons in a classic military war, etc.), we will be looking at them in the context of what has happened repeatedly in history and with the timeless and universal principles we learned from studying these cases. While I will be looking at the range of possibilities that one might consider, I will be doing that without getting into what the future might look like. I will do that in “The Future,” the concluding chapter of this book. In this chapter I will also be moving a bit more from just conveying facts to sharing opinions (i.e., sharing my uncertain conjectures).
 
 As with my other chapters if you want to quickly read this chapter you can read just that which is in bold and if you want to read just the principles, you can read that which is in italics.
 
@@ -1695,8 +1714,8 @@ My main principle about war is:
 When two competing entities have comparable powers that include the power to destroy the other, the risks of a war to the death are high unless both parties have extremely high trust that they won’t be unacceptably harmed or killed by the other. Imagine that you are dealing with someone who can either cooperate with you or kill you and that you can either cooperate with them or kill them, and neither of you can be certain what the other will do. What would you do? Even though the best thing for you and your opponent to do is cooperate, the logical thing for each of you to do is to kill the other before being killed by the other. That is because survival is of paramount importance and you don’t know if they will kill you, though you do know that it is in their interest to kill you before you kill them. In game theory being in this position is called the “prisoner’s dilemma.” It is why establishing mutually assured protections against existential harms that the opponents can inflict on each other are necessary to avoid deadly wars. Establishing exchanges of benefits and dependencies that would be intolerable to lose further reinforces good relations. Because a) most wars occur when it isn’t clear which side is most powerful so the outcomes are uncertain, b) the costs of wars are enormous, and c) losing wars is ruinous, they are extremely dangerous and must only be entered into if there is confidence that you will not have unacceptable losses, so you must think hard about what you will really fight to the death for.
 While I am primarily focusing on US-China relations in this chapter, the game we and global policy makers are playing is like a multidimensional chess game that requires each player to consider the many positions and possible moves of a number of key players (i.e., countries) that are also playing the game, with each of these players having a wide range of considerations (economic, political, military, etc.) that they have to weigh to make their moves well. For example, the relevant other players that are now in this multidimensional game include Russia, Japan, India, other Asian countries, Australia, and European countries, and all of them have many considerations and constituents that will determine their moves. From playing the game I play—i.e., global macro investing—I know how complicated it is to simultaneously consider all that is relevant in order to make winning decisions. I also know that what I do is not as complicated as what those in the seats of power do and I know that I don’t have access to information that is as good as what they have, so it would be arrogant for me to think I know better than they do about what’s going on and how to best handle it. For those reasons I am offering my views with humility. With that equivocation I will tell you how I see the US-China relationship and the world setting in light of these wars, and I will be brutally honest.
 
-The Positions the Americans and Chinese Are In
-As I see it, destiny and the Big Cycle manifestations of it have put these two countries and their leaders in the positions they are now in. They led the United States to go through its mutually reinforcing Big Cycles of successes, which led to excesses that led to weakening in a number of areas. Similarly they led China to go through its Big Cycle declines, which led to intolerably bad conditions that led to revolutionary changes and to the mutually reinforcing upswings that it is now in.
+### The Positions the Americans and Chinese Are In
+<strong>As I see it, destiny and the Big Cycle manifestations of it have put these two countries and their leaders in the positions they are now in. They led the United States to go through its mutually reinforcing Big Cycles of successes, which led to excesses that led to weakening in a number of areas. Similarly they led China to go through its Big Cycle declines, which led to intolerably bad conditions that led to revolutionary changes and to the mutually reinforcing upswings that it is now in.</strong>
 
 For example, destiny and the big debt cycle led the US to find itself now in the late-cycle phase of the long-term debt cycle in which it has too much debt and needs to rapidly produce much more debt, which it can’t service with hard currency so it has to monetize its debt in the classic late-cycle way of printing money to fund the government’s deficits. Ironically and classically being in this bad position is the consequence of the United States’ successes that led to these excesses. For example, it is because of the United States’ great global successes that the US dollar became the world’s dominant reserve currency, which allowed Americans to borrow excessively from the rest of the world (including from China) which put the US in the tenuous position of owing other countries (including China) a lot of money and which has put these other countries in the tenuous position of holding the debt of an overly indebted country that is rapidly increasing and monetizing its debt and that pays significantly negative real interest rates to those holding it. In other words it is because of the classic reserve currency cycle that China wanted to save a lot in the world’s reserve currency, which led it to lend so much to Americans who wanted to borrow so much, which has put the Chinese and Americans in this awkward big debtor-creditor relationship when these wars are going on between them.
 
@@ -1710,7 +1729,7 @@ Thus far in this book we looked at the history of the last 500 years focusing es
 
 History has taught us that there are five major types of wars—1) trade/economic wars, 2) technology wars, 3) geopolitical wars, 4) capital wars, and 5) military wars—that need to be considered. While all sensible people wish that these “wars” weren’t occurring and that cooperation was occurring in their places, we must be practical in recognizing that they exist, and we should use past cases in history and our understandings of actual developments as they are taking place to think about what is most likely to happen next and how to deal with it well. We see them transpiring in various degrees of play now. They should not be mistaken as individual conflicts but rather recognized as interrelated conflicts that are extensions of one bigger evolving conflict. In watching them transpire we need to observe and try to understand each side’s strategic goals—e.g., are they trying to hasten a conflict (which some Americans think is best for the US because time is on China’s side because China is growing its strengths at a faster pace) or are they trying to ease the conflicts (because they believe that they would be better off if there is no war)? In order to prevent these from escalating out of control, it will be important for leaders of both countries to be clear about what the “red lines” and “trip wires” are that signal changes in the seriousness of the conflict. Let’s now take a look at these wars with the lessons from history and the principles they provide in mind.
 
-The Trade/Economic War
+### The Trade/Economic War
 Like all wars, the trade war can go from being a polite dispute to being life-threatening, depending on how far the combatants want to take it.
 
 Thus far we haven’t seen the US-China trade war taken very far—it just includes classic tariffs and import restrictions that are reminiscent of those we have repeatedly seen in other similar periods of conflict (e.g., the Smoot-Hawley Tariff Act of 1930). We have seen the trade negotiations and what they achieved reflected in a very limited Phase One Trade Agreement that is in its early stages and is being tentatively implemented. As we have seen, this “negotiation” was about testing each other’s powers rather than looking to global laws and judges (like the World Trade Organization) to achieve fair resolution. That—i.e., via tests of power—is how all these wars will be fought. The big question is how far these tests of power will go and what form will they take.
@@ -1732,7 +1751,7 @@ Classically, the most dangerous part of the trade/economic war comes when countr
 
 For these reasons both countries, especially China, are shifting to more domestic production and “decoupling.”2 As President Xi has said, the world is “undergoing changes not seen in a century” and “in the current external environment of rising protectionism, downturn in the world economy, and shrinking global markets, [China] must give full play to the advantages of the domestic super-large-scale market.” Over the last 40 years it acquired the abilities to do this. Over the next five years we should see both countries become more independent from each other. Obviously the rate of reducing one’s dependencies that can be cut off will be much greater for China over the next 5-10 years than for the United States.
 
-The Technology War
+### The Technology War
 The technology war is a much more serious war than the trade war because whoever wins the technology war will probably also win the economic and military wars.
 
 The US and China are now the dominant players in the world’s big tech sectors and these big tech sectors are the industries of the future. The Chinese tech sector has rapidly developed domestically to serve the Chinese in China and to become a competitor in world markets. At the same time China remains highly dependent on technologies from the United States and other countries (e.g., semiconductor chips from Taiwan). That makes the United States vulnerable to the increased development and competition of Chinese technologies and makes the Chinese vulnerable to being cut off from American or non-American essential technologies.
@@ -1749,7 +1768,8 @@ What would a worsening of the tech war look like?
 
 Still, the United States has a technology lead (though it’s shrinking fast). As of result, as of now the Chinese have great dependencies on imported technologies from both the US and non-US sources that the US can influence. This creates a great vulnerability for China, which creates a great weapon for the United States. It most obviously exists in advanced semiconductors, though it exists in other technologies as well. The dynamic with the world’s leading chip maker—Taiwan Semiconductor Manufacturing Company, which provides the Chinese and the world with needed chips and which can be influenced by the United States—is one of many interesting dynamics to watch. There are many such Chinese technology imports that are essential for China’s well-being, and much fewer American imports from China that are essential for the United States’ well-being. If the United States shuts off Chinese access to essential technologies that would signal a major step up in war risks. On the other hand, if events continue to transpire as they have been transpiring, China will be much more independent and in a much stronger position than the United States technologically in 5-10 years, at which time we will see these technologies much more decoupled.
 
-The Geopolitical War
+### The Geopolitical War
+
 Sovereignty, especially as it relates to the Chinese mainland, Taiwan, Hong Kong, and the East and South China Seas, is probably China’s biggest issue. As you might imagine, the “100 years of humiliation” period and the invasions by foreign “barbarians” during it gave Mao and the Chinese leaders to this day compelling reasons to a) have complete sovereignty within their borders, b) get back the parts of China that were taken away from them (e.g., Taiwan and Hong Kong), and c) never be so weak that they can be pushed around by foreign powers. China’s desire for sovereignty and to maintain its distinct ways of doing things (i.e., its culture) are why the Chinese reject American demands for them to change Chinese internal policies (e.g., to be more democratic, to handle Tibetans and the Uighurs differently, to dictate China’s dealing with Hong Kong and Taiwan, etc.). In private some Chinese point out that they don’t dictate how the United States should treat people within its borders. They also believe that the United States and European countries are culturally prone to proselytizing—i.e., to imposing on others their values, their Judeo-Christian beliefs, their morals, and their ways of operating—and that this inclination developed through the millennia, since before the Crusades. To them the sovereignty risk and the proselytizing risk make a dangerous combination that could threaten China’s ability to be all it can be by following the approaches that it believes are best. The Chinese believe that their having that sovereignty and that ability to approach things that they believe is best as determined by their hierarchical governance structure is uncompromisable. Regarding the sovereignty issue, they also point out that there are reasons for them to believe that the United States would topple their government—i.e., the Chinese Communist Party—if it could, which is also intolerable.4 These are the biggest existential threats that I believe the Chinese would fight to the death to defeat and the United States must be careful in dealing with China if it wants to prevent a hot war. For issues not involving sovereignty, I believe the Chinese expect to fight to influence them non-violently but to avoid having a hot war over.
 
 Probably the most dangerous important sovereignty issue that is difficult to imagine the peaceful resolution of is the Taiwan issue. Many Chinese people believe that the United States will never follow through with its implied promise to allow Taiwan and China to unite unless forced. They point out that when the US sells the Taiwanese F-16s and other weapons systems it sure doesn’t look like the United States is facilitating the stated goal of having the peaceful reunification of China. As a result, they believe that the only way to assure that China is safe and united is to have the power to the oppose the US in the hope that the US will sensibly acquiesce when faced with a greater Chinese power. My understanding is that China is now stronger militarily in that region. Also, China is likely to get militarily stronger at a faster pace. So, as I mentioned earlier, I would worry a lot if we were to see an emerging fight over sovereignty, especially if we were to see a “Fourth Taiwan Strait Crisis.” Would the US fight to defend Taiwan? Uncertain. The US not fighting would be a great geopolitical win for China and a great humiliation for the US. It would signal the decline of the American Empire in the Pacific and beyond in much the same way as the British loss of the Suez Canal signaled the end of the British Empire and beyond. The implications of that would extend well beyond that loss. For example, in the British case it signaled the end of the British pound as a reserve currency. The more of a show the US makes of defending Taiwan the greater the humiliation of a lost war or a retreat would be. That is concerning because the United States has been making quite a show of defending Taiwan while destiny appears to be bringing that closer to a reality. If the US does fight, I believe that a war with China over Taiwan that costs American lives would be very unpopular in the US and the US will probably lose that fight, so the big question is whether that will lead to a broader war. That scares everyone. Hopefully the fear of that great war and the destruction it would produce, like the fear of mutually assured destruction, will prevent it.
@@ -1768,7 +1788,7 @@ Over the next 5-10 years, in addition to there being the decouplings6 in other a
 
 In addition to the international political risks and opportunities there are of course big domestic political risks and opportunities in both countries. That is because there are different factions who are fighting for control of both governments and there will inevitably be changes in leaders that will produce changes in policies that are hard or impossible to anticipate. While nearly impossible to anticipate, these changes are not totally impossible to anticipate because whoever is in charge will be faced with the challenges that now exist and that are unfolding in the Big Cycle ways we have been discussing. Since all leaders (and all other participants in these evolutionary cycles including all of us) step on and get off at different parts of these cycles, they (and we) have a certain set of likely situations to be encountered. Since other people in history have stepped on and off at the same parts of past cycles, by studying what these others encountered and how they handled their encounters at the analogous stages, and by using some logic, we can imperfectly imagine the range of possibilities.
 
-The Capital War
+### The Capital War
 The two main capital war risks are being shut off from capital (which is a greater risk for China than it is for the US) and losing one’s reserve currency status (which is a greater risk for the US than for China).
 
 In Chapter 5 I reviewed classic capital war moves. They are all possibilities in the US-China conflict. The modern term for these moves is “sanctions.” The goal is to cut the enemy off from the capital that the enemy needs because no money = no power. Sanctions come in many forms with the broad categories being financial, economic, diplomatic, and military. Under each of these categories there are many versions and applications. As of 2019, there were approximately 8,000 US sanctions in place targeted at individuals, companies, and governments.7 I’m not going to delve deeper into the various versions and targets because that would be too much of a digression. The main thing to know is that the United States has by far the greatest arsenal of sanctions. Most importantly the United States has the greatest influence over the global financial system and it has the world’s leading reserve currency. That gives it the ability to cut most entities off from receiving money and credit by preventing financial institutions from dealing with them by threatening those financial instructions that deal with the targeted entity with being cut off from the global financial markets. These sanctions are by no means perfect or all-encompassing, but they are generally damned effective.
@@ -1804,7 +1824,7 @@ As previously explained and shown in the development of the Dutch, British, and 
 
 The development of Chinese currency and capital markets would be detrimental for the United States and beneficial for China. So once again it seems likely that American policy makers will be forced to choose between a) trying to disrupt this evolutionary path by becoming more aggressive with their wars (in this case via a more aggressive capital war) and b) accepting that evolution will likely lead to China becoming relatively stronger, more self-sufficient, and less vulnerable to being squeezed by the US at the expense of US leadership in this area, especially over the next 5-10 years. We are seeing some early signs of US moves to curtail Americans’ investments in Chinese markets and to possibly delist Chinese companies from American stock exchanges. These are double-edged swords because while being marginally harmful to Chinese markets and listed companies they also weaken American investors’ and American stock exchanges’ abilities to be competitive, which will support the development of those in China and elsewhere. For example, the Ant Group’s choice to list on the Hong Kong and Shanghai exchanges gives investors the choice of investing on those Chinese exchanges or missing out on those investments, which are listed there and not on other exchanges.
 
-The Military War
+### The Military War
 I am not a military expert but I get to speak with military experts and I do research on the subject so I will pass along what has been given to me. Take it or leave it at your own peril.
 
 It is impossible to visualize what the next major war will be like, though it probably will be much worse than most people imagine. That is because a lot of weaponry has been developed in secret and because the creativity and capabilities to inflict pain have grown enormously in all forms of warfare since the last time most powerful weapons were used and seen in action. There are now more types of warfare than one can imagine and, within each, more weapons systems than anyone knows. While of course nuclear warfare is a scary prospect I have heard equally scary prospects of biological, cyber, chemical, space, and other types of warfare. Many of these have been untested so there is a lot of uncertainty about how they will work.
@@ -1821,7 +1841,8 @@ In thinking about the timing of a war, I keep in mind the principle that when co
 
 I’m now going to add two other types of war—1) the culture war, which will drive how each side will approach these circumstances, including what they would rather die for than give up, and 2) the war with ourselves, which will determine how effective we are, which will lead us to be strong or weak in the critical ways that we previously explored.
 
-The Culture War
+### The Culture War
+
 How people are with each other is of paramount importance in determining how they will handle the circumstances that they jointly face, and the cultures that they have will be the biggest determinants of how they are with each other. What Americans and the Chinese value most and how they think people should be with each other determine how they will deal with each other in addressing the conflicts that we just explored. Because Americans and the Chinese have different values and cultural norms that they will fight and die for, if we are going to get through our differences peacefully it is important that both sides understand what these are and how to deal with them well.
 
 As described earlier, Chinese culture compels its leaders and society to make most decisions from the top down, demanding high standards of civility, putting the collective interest ahead of individual interests, requiring each person to know their role and how to play it well, and having filial respect for those superior in the hierarchy. They also seek “rule by the proletariat,” which in common parlance means that the benefits of the opportunities and fruits of productivity created are broadly distributed. In contrast American culture compels its leaders to run the country from the bottom up, demanding high levels of personal freedom, favoring individualism over collectivism, admiring revolutionary thinking and behavior, and not respecting people for their positions as much as for the quality of their thinking. These core cultural values drove the type of economic and political systems they chose.
@@ -1853,7 +1874,7 @@ Untruthful and emotional appeals that rile people up increase the dangers of stu
 The smartest way to fight and win a war is to outcompete the opposition in order to have the power to negotiate with them from a position of strength. Can we agree that a) the US and China are in a competition of systems and abilities, b) each will inevitably follow the system that they believe works best for them, c) Americans have a slight lead in power that is shrinking and they’re outnumbered, and d) history has shown that while numbers of people can matter a lot, other factors (e.g., the 17 I showed in Chapter 1) matter more so even small-population empires become leading world powers if they manage themselves well? That all implies that what’s most important to be strong is how we are with ourselves.
 That brings me to the last and the most important war that we are now facing.
 
-The War with Ourselves: The Enemy Is Us
+### The War with Ourselves: The Enemy Is US
 Our greatest war is with ourselves because we have the most control over how strong or weak we are. Because it is pretty clear what makes countries strong and weak, and because these strengths and weaknesses are measurable, it is easy to see how each country is doing. These factors were laid out in the first chapter and measured by 17 indices. I will briefly review them here. Then in the concluding chapter, “The Future,” I will show these indices for most countries and will explore the leading indicators of them so that we can make projections for the future.
 
 The items that are most important in making a great empire are…
@@ -1903,7 +1924,13 @@ The internal wars and challenges in both China and the US are more important and
 
 In the next chapter of this book, “The Internal Order,” we will look at the patterns and processes of gaining and losing order within countries, and in the concluding chapter of this book we will attempt to look into the future. Below are charts that show our indices of the eight most important powers of the United States and China. They speak for themselves. I will update them annually so you can see how things are transpiring.
 
-  
+
+![ch7-appendix-chart-1-440bf34b4c640a753db1d690690af19f57cb815a4c84e01ac6a8b863f7ba5b97](The-Changeing-World-Order_files\ch7-appendix-chart-1-440bf34b4c640a753db1d690690af19f57cb815a4c84e01ac6a8b863f7ba5b97.png)
+
+![ch7-appendix-chart-2-38bb9e1c45904480cada1bf9451bf3f6ec5f03d6e152944d8b12838ec077ca40](The-Changeing-World-Order_files\ch7-appendix-chart-2-38bb9e1c45904480cada1bf9451bf3f6ec5f03d6e152944d8b12838ec077ca40.png)
+
+![ch7-appendix-chart-3-c190c9d29b52c0cb21b086c5f87af2f8421d49ebe79cd4f915807be003a8c685](The-Changeing-World-Order_files\ch7-appendix-chart-3-c190c9d29b52c0cb21b086c5f87af2f8421d49ebe79cd4f915807be003a8c685.png "Appendix: Charts Showing the Relative Powers")
+
 [1]For example, though I always had and retained the ownership power to make decisions at Bridgewater autocratically, I chose not to use that power. Instead I created and operated an idea-meritocratic system (which I described in Principles). I also chose to be far more generous with the people I worked with than I had to be while maintaining extremely high standards because I knew that operating that way would produce the amazing relationships and outcomes that we experienced—far better than if I had used my “hard powers” more forcefully. So it’s important to remember that great relationships give one great powers and that they are wonderful rewards in and of themselves. There is nothing more powerful and rewarding for the individual and the collective than the cooperating of capable people who care for each other and who will give each other all they can.
 
 [2]The main plan for building self-sufficiency goes under name of “dual circulation.”
@@ -1941,3 +1968,8 @@ Back to Top
 Terms of Service Privacy Policy Cookie Notice Cookies Settings Careers Contact Us
 Please review our Privacy Policy and Terms of Service. By continuing to use this site or our products or services, you agree to our Terms of Service and acknowledge that you have read our Privacy Policy.
 CLOSE
+
+<div style="page-break-after: always;"></div>
+
+## Chapter 8  The Internal Order
+
